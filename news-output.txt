@@ -1,0 +1,18 @@
+vagrant@vagrant:/vagrant$ python news.py
+
+1. What are the most popular three articles of all time?
+
+	/article/candidate-is-jerk - 338647 total views
+	/article/bears-love-berries - 253801 total views
+	/article/bad-things-gone - 170098 total views
+
+2. Who are the most popular article authors of all time?
+
+	Ursula La Multa - 512805 total views
+	Rudolf von Treppenwitz - 427781 total views
+	Anonymous Contributor - 171762 total views
+	Markoff Chaney - 85387 total views
+
+3. On which days did more than 1% of requests lead to errors?
+
+	2016-07-17 - 2.26 % of requests
